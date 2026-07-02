@@ -279,4 +279,4 @@ QA Engineer | AI Enthusiast | RAG & Responsible AI Projects
 
 Consider giving the repository a ⭐ on GitHub.
 
-Feedback and contributions are always welcome.
+Feedback, suggestions, and contributions are always welcome. If you have ideas for improving this project, feel free to open an issue or submit a pull request.
