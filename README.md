@@ -45,7 +45,7 @@ The project also incorporates **Responsible AI** features such as confidence sco
                      Retriever
                           │
                           ▼
-                 Groq Llama 3.3 70B
+                 Groq LLM (Llama 3.3 70B)
                           │
                           ▼
               Responsible AI Module
