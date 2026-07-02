@@ -191,7 +191,7 @@ Recommendation :
 3. Chunks are converted into embeddings.
 4. Embeddings are stored in a FAISS Vector Database.
 5. The Retriever finds the most relevant chunks.
-6. Groq LLM generates the answer.
+6. Groq LLM generates the answer using the retrieved document context.
 7. Responsible AI evaluates the response.
 8. The answer, confidence score and sources are displayed.
 
