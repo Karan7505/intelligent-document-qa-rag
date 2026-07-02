@@ -81,6 +81,7 @@ document_qa_project/
 │── responsible_ai.py
 │── requirements.txt
 │── README.md
+│── API_SETUP.md
 │── .gitignore
 │── sample_document.pdf
 │── .env
