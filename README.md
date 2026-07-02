@@ -63,7 +63,7 @@ The project also incorporates **Responsible AI** features such as confidence sco
 | Python | Programming Language |
 | Streamlit | Web Application |
 | LangChain | RAG Pipeline |
-| Groq API | Large Language Model |
+| Groq API | LLM Inference API |
 | HuggingFace | Sentence Embeddings |
 | FAISS | Vector Database |
 | PyPDF | PDF Loading |
