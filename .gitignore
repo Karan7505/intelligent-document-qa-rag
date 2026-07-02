@@ -5,3 +5,4 @@ temp_document.pdf
 *.pyc
 .streamlit/
 .vscode/
+.vscode/
