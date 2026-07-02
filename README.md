@@ -173,7 +173,9 @@ Example Output:
 ```
 Confidence Score : 95%
 
-Sources Used : 5
+Sources Found : 5
+
+Reliability Check : Safe
 
 Recommendation :
 
