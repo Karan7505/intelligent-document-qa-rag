@@ -94,9 +94,9 @@ document_qa_project/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/KaranKaushal/document_qa_project.git
+git clone https://github.com/Karan7505/intelligent-document-qa-rag.git
 
-cd document_qa_project
+cd intelligent-document-qa-rag
 ```
 
 ---
