@@ -13,7 +13,7 @@ The project also incorporates **Responsible AI** features such as confidence sco
 - 🧠 Retrieval-Augmented Generation (RAG)
 - 🔍 Semantic search using FAISS Vector Database
 - 📚 HuggingFace Embeddings
-- ⚡ Groq LLM Integration (Llama 3.3 70B)
+- ⚡ Groq LLM Integration (Llama-3.3-70B-Versatile)
 - 🎯 Custom Prompt Engineering
 - 📊 Confidence Score for every answer
 - 🛡️ Responsible AI safety checks
