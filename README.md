@@ -214,16 +214,16 @@ Recommendation :
 
 # 🔬 Future Improvements
 
-- ChatGPT-style Interface
-- Conversation Memory
-- Multi-PDF Support
-- Adjustable Chunk Overlap
-- Adjustable Top-K Retrieval
-- Download PDF Report
-- RAG Evaluation Dashboard
-- OCR Support for Scanned PDFs
-- Multi-Model Support
-- Authentication & User Accounts
+- [ ] Download PDF Report
+- [ ] Adjustable Chunk Overlap
+- [ ] Adjustable Top-K Retrieval
+- [ ] ChatGPT-style Interface
+- [ ] Conversation Memory
+- [ ] Multi-PDF Support
+- [ ] OCR Support for Scanned PDFs
+- [ ] Multi-Model Support
+- [ ] RAG Evaluation Dashboard
+- [ ] Authentication & User Accounts
 
 ---
 
