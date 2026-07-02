@@ -247,7 +247,7 @@ This project demonstrates practical implementation of:
 
 ### Home Screen
 
-*(Add screenshot here)*
+*![Home Screen](screenshots/home-screen.png)*
 
 ---
 
