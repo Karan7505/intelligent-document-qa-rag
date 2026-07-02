@@ -269,11 +269,9 @@ This project demonstrates practical implementation of:
 
 QA Engineer | AI Enthusiast | RAG & Responsible AI Projects
 
-LinkedIn:
-www.linkedin.com/in/karan1112
+**LinkedIn:** https://www.linkedin.com/in/karan1112
 
-GitHub:
-(Add your GitHub URL)
+**GitHub:** https://github.com/Karan7505
 
 ---
 
