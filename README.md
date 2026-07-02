@@ -148,6 +148,7 @@ Launch the Streamlit application:
 ```bash
 streamlit run streamlit_app.py
 ```
+The application will automatically open in your default web browser. If it doesn't, open the local URL shown in the terminal (usually http://localhost:8501).
 
 For testing the terminal version:
 
