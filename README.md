@@ -74,7 +74,7 @@ The project also incorporates **Responsible AI** features such as confidence sco
 # 📂 Project Structure
 
 ```
-document_qa_project/
+intelligent-document-qa-rag/
 
 │── app.py
 │── streamlit_app.py
