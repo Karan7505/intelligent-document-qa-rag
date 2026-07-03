@@ -6,6 +6,10 @@ The project also incorporates **Responsible AI** features such as confidence sco
 
 ---
 
+## 🌐 Live Demo
+
+👉 **Try the application here:** https://github.com/Karan7505/intelligent-document-qa-rag
+
 # 🚀 Features
 
 - 📄 Upload any PDF document
