@@ -31,31 +31,31 @@ The project also incorporates **Responsible AI** features such as confidence sco
 # 🏗️ System Architecture
 
 ```
-                    PDF Document
-                          │
-                          ▼
-                  PyPDF Document Loader
-                          │
-                          ▼
-              Recursive Character Splitter
-                          │
-                          ▼
-                 HuggingFace Embeddings
-                          │
-                          ▼
-                  FAISS Vector Database
-                          │
-                          ▼
-                     Retriever
-                          │
-                          ▼
-                 Groq LLM (Llama 3.3 70B)
-                          │
-                          ▼
-              Responsible AI Module
-                          │
-                          ▼
-                 Streamlit Web Interface
+                  PDF Document
+                        │
+                        ▼
+             PyPDF Document Loader
+                        │
+                        ▼
+       Recursive Character Splitter
+                        │
+                        ▼
+          HuggingFace Embeddings
+                        │
+                        ▼
+           FAISS Vector Database
+                        │
+                        ▼
+                  Retriever
+                        │
+                        ▼
+        Groq LLM (Llama 3.3 70B)
+                        │
+                        ▼
+          Responsible AI Module
+                        │
+                        ▼
+         Streamlit Web Interface
 ```
 
 ---
