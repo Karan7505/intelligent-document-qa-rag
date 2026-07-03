@@ -253,13 +253,13 @@ This project demonstrates practical implementation of:
 
 ### Question Answering
 
-*(Add screenshot here)*
+*![Question Answering](screenshots/question-answering.png)*
 
 ---
 
 ### Responsible AI Output
 
-*(Add screenshot here)*
+*![Responsible AI Output](screenshots/responsible-ai-output.png)*
 
 ---
 
